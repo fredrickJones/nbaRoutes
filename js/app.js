@@ -1,3 +1,4 @@
+'use strict';
 var app = angular.module('nbaRoutes', ['ngRoute']);
 
 app.config(function($routeProvider, $httpProvider){
