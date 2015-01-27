@@ -1,6 +1,6 @@
 'use strict';
 var app = angular.module('nbaRoutes');
 
-app.controller('teamCtrl', function($scope, $routeParams, teamService){
+app.controller('teamCtrl', function($scope, $routeParams, teamService, teamData){
 
 });
